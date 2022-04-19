@@ -1,0 +1,331 @@
+@media screen and (max-width: 1525px) {
+    .sub1{
+        padding: 20px 0px;
+    }
+}
+
+@media screen and (max-width: 1000px) {
+    .input1{
+        width: 60%;
+    }
+    .firstpart{
+        margin-left: 50px;
+    }
+    .part2{
+        margin-top: 65px;
+        margin-bottom: 90px;
+    }
+    .secondpart{
+        margin-top: 100px;
+    }
+    .thirdpart{
+        margin: 60px 0px;
+    }
+    .navbar{
+        background-color: #353535;
+    }
+    .nav-list--xs {
+        display: block !important;
+        background: #353535;
+        position: absolute;
+        text-align: left;
+        height: 330px;
+        top: 53px;
+        width: 100%;
+        left: -2px;
+    }
+    .nav-list--xs .elem{
+        padding: 14px;
+        margin-left: 10px;
+    }
+    .nav-list--xs .navbar{
+        background-color: #353535;
+    }
+    .nav-list--xs .elem1{
+        width: 30%;
+        margin-left: 13px;
+    }
+    .set-email{
+        display: inline-block;
+    }
+
+    .list-wrapper{
+        display: none;
+    }
+    .navbar a.nav-icon{
+        float: right;
+        display: block;
+    }
+    #nav-icon{
+        float: right;
+        display: block;
+    }
+    .navbar.responsive {
+        position: relative;
+    }
+    .navbar.responsive a.nav-icon {
+        position: absolute;
+        right: 0;
+        top: 0;
+    }
+    .navbar.responsive a {
+        float: none;
+        display: block;
+        text-align: left;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .firstpart{
+        margin-left: 32px;
+    }
+    .part1{
+        justify-content: flex-start;
+    }
+    .p1{
+        width: 100%;
+    }
+    .img-header{
+        width: 100%;
+    }
+    .img1{
+        margin-top: 61px;
+    }
+    .bgcolor{
+        width: 35%;
+    }
+    .input1{
+        width: 75%;
+    }
+    .getbtn{
+        padding: 0.5rem;
+    }
+    .h25{
+        font-size: 40px;
+    }
+    .icon:before{
+        right: 20%;
+    }
+    .icon:after{
+        left: 24%;
+    }
+    .blog-desc{
+        margin-right: 0;
+    }
+    .set-img{
+        margin-top: 30px;
+    }
+    .next-gen{     
+        flex-wrap: wrap;  
+        width: 100%;        
+    }
+    .next-gen-vpn{
+        margin-top: 31px;
+    }
+    .set-img{
+        width: 100%;
+    }
+    .mb-4{
+        margin: 0;
+    }    
+    .social-media{
+        display: flex;
+        list-style: none;
+    }
+    .footer-info{
+        padding: 100px 0px;
+    }
+    .social-items{
+        padding: 10px;
+    }
+}
+
+@media screen and (max-width: 426px) {
+    .firstpart{       
+        width: 100%;
+        flex-wrap: inherit;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-left: 0%;
+    }
+    .heading{
+        padding-left: 0;
+    }
+    .part1{
+        justify-content: center;
+    }
+    .h1,.p1{
+        text-align: center;
+    }
+    .input1{
+        display: block;
+        width: 100%;
+    }
+    .secondpart{
+        margin-top: 100px;
+    }
+    .part2{
+        margin-bottom: 100px;
+    }
+    .text1{
+        width: 90%;        
+    }
+    .sub1{
+        width: 90%;
+    }
+    .thirdpart{
+        margin: 100px 0px;
+    }
+    .row{
+        padding-bottom: 100px;
+    }
+    .row1, .row2, .row3{
+        width: 100%;
+        padding-right: 0%;
+    }
+    .icon:before{
+        right: 40%;
+    }
+    .icon:after{
+        left: 41%;
+    }
+    .pricing{
+        padding: 33px 0px;
+    }
+    .bgcolor{
+        width: 100%;
+    }    
+    .free, .startup, .premium, .pro{
+        padding: 0px;
+        width: 100%;
+    }
+    .getbtn{
+        padding: 0.5rem 35%;
+    }
+    .h25{
+        padding-top: 74px;
+    }
+    .desc5{
+        padding: 0px;
+    }
+    .r1, .r2, .r3, .r4{
+        width: 100%;
+    }
+    .head66{
+        padding: 44px;
+    }
+    .mb-4{
+        padding: 8px;
+    }
+    .customer{
+        width: 100%;
+        margin-bottom: 60px;
+    }
+    .sec7{
+        padding: 0px;
+    }
+    .header{
+        margin: 30px;
+    }
+    .btn-class{
+        display: flex;
+        flex-wrap: wrap;
+        width: 100%;
+        margin-left: 7px;
+    }
+    .padding{
+        width: 100%;
+        padding: 4% 0px;
+    }
+    .btns-1{
+        padding: 1rem 36%;
+        width: 100%;
+    } 
+    .btns{
+        padding: 1rem 37%;
+    }
+    .next-gen{
+        flex-wrap: wrap;
+        width: 100%;
+    }
+    .set-img{
+        width: 100%;
+    }
+    .next-gen-vpn{
+        margin-left: 15px;
+    }
+    .subscribe{
+        padding: 0px;
+    }
+    .sub-head{
+        padding: 25px 0px;
+    }
+    .sub-desc{
+        width: 100%;
+        padding-top: 38px;
+    }
+    .form-class{
+        
+        margin-top: 50px; 
+    }
+    .blog-head{
+        padding-top: 38px;
+    }
+    .blog-p{
+        padding-top: 25px;
+    }
+    .blog{
+        padding: 60px 0px;
+    }
+    .blog-desc{
+        width: 100%;
+        padding: 10px;
+    }
+    .raptor-desc{
+        width: 100%;
+        padding: 0px 11px;
+    }
+    .unseful-links{
+        width: 100%;
+        padding: 30px 10px;
+    }
+    .navigational{
+        width: 100%;
+        padding: 0px 10px;
+    }
+    .contact{
+        width: 100%;
+    }
+
+}
+
+@media screen and (max-width: 321px){
+    .btns, .btns-1{
+        padding: 1rem 33%;
+    }
+    .firstpart{
+        margin-left: 0;
+    }
+    .container{
+        padding: 13px 63px 0 8px;
+    }
+    .nav-link{
+        padding: 0;
+    }
+}
+
+@media screen and (max-width: 376px){
+    .btns, .btns-1{
+        padding: 1rem 33%;
+    }
+   .firstpart{
+        margin-left: 0;
+    }
+    .container{
+        padding: 13px 41px 0 31px;
+    }
+    .navbar{
+        padding: 20px 0px;
+    }
+}
